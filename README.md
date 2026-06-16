@@ -66,7 +66,7 @@ Tools and Techniques Used:
    * KPI Reporting
    * Dashboard Design and Formatting
    * Manufacturing Data Analysis
-
+     
 Key Insights:
     * Identified product categories with the highest production costs.
     * Evaluated managerial task distribution and performance.
